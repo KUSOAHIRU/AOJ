@@ -1,4 +1,4 @@
-#16D8104002I Nozomi Nagaska 長坂望　IDtanni_kudasai
+
 
 #include <iostream>
 
