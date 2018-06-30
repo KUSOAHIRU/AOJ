@@ -1,4 +1,3 @@
-//16D8104002I Nozomi Nagasaka
 
 #include<iostream>
 
