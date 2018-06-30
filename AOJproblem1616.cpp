@@ -1,4 +1,3 @@
-//16D8104002I Nozomi Nagasaka 2018/5/16
 
 #include<iostream>
 using namespace std;
