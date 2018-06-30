@@ -1,4 +1,3 @@
-//AOJ ALDS1_1_A.cpp 16D8104002I Nozomi Nagasaka 長坂望 アカウントIDtanni_kudasai プログラミング言語c++
 
 
 #include <iostream>
